@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsepdate",
+        "uuid": 2551668,
+        "checksum": "mdr9ep"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
